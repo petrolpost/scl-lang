@@ -1,7 +1,7 @@
 # SCL v1.0 — Slash Command Language  
 **The First Formal, Reversible, Context-Aware Command Language for AI Agents**
 
-[![SCL Certified](https://img.shields.io/badge/SCL-Certified-v1.0-success)]
+[![SCL Official](https://img.shields.io/badge/SCL-Official-1.0.1-blue?logo=github)](https://github.com/petrolpost/scl-lang)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)  
 [![Spec](https://img.shields.io/badge/Spec-v1.0-brightgreen)](spec.md)
 
